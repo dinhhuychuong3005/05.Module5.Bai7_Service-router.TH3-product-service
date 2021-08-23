@@ -13,10 +13,6 @@ import {ProductEditComponent} from './product/product-edit/product-edit.componen
 @NgModule({
   declarations: [
     AppComponent,
-    ProductListComponent,
-    ProductCreateComponent,
-    ProductDeleteComponent,
-    ProductEditComponent
   ],
   imports: [
     BrowserModule,
